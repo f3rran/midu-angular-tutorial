@@ -1,5 +1,7 @@
 # MiduAngularTutorial
 
+Project created to learn Angular. Following the [Midudev tutorial](https://www.youtube.com/watch?v=sS90VVmBPcg)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.9.
 
 ## Development server

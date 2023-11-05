@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'midu-angular-tutorial';
+
+  changeTitle() {
+    this.title = "changed";
+  }
 }
